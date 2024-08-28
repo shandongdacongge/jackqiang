@@ -2,6 +2,6 @@
   "name": "pitmw",
   "website": "https://www.pitmw.com",
   "description": "pitmw",
-  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
+  "logo": "https://testnet-usea1-holesky-operator-metadata.s3.amazonaws.com/0x0655bb8216cfda5c63a69329384fc7e753bba9ac/logo.png",
   "twitter": "https://twitter.com/pitmw"
 }
