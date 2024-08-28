@@ -1,7 +1,7 @@
 {
-  "name": "sskbnie",
-  "website": "https://www.sskbnie.com",
-  "description": "sskbnie",
-  "logo": "https://testnet-usea1-holesky-operator-metadata.s3.amazonaws.com/0x0655bb8216cfda5c63a69329384fc7e753bba9ac/logo.png",
-  "twitter": "https://twitter.com/sskbnie"
+  "name": "mug",
+  "website": "https://www.mug.com",
+  "description": "mug",
+  "logo": "https://holesky.eigenlayer.xyz/tokenIcon/beaconChainETH.svg",
+  "twitter": "https://twitter.com/mug"
 }
